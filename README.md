@@ -1,1 +1,1 @@
-https://github.com/Sindyclaudia06/websitegaleri/edit/main/README.md
+https://github.com/Sindyclaudia06/websitegaleri.git
